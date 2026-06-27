@@ -8,7 +8,7 @@ int main(){
             x = a ;
             a = b ;
             b = x ;
-         }
+         }//jkhadh
          if (c <= a){
             x = a ;
             a = c ;
@@ -22,4 +22,3 @@ int main(){
     printf("%d %d %d\n" , a , b , c);
     return 0;
 }
-
