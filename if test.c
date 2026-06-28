@@ -8,7 +8,7 @@ int main(){
             x = a ;
             a = b ;
             b = x ;
-         }//jkhadh
+         }
          if (c <= a){
             x = a ;
             a = c ;
