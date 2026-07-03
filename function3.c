@@ -8,7 +8,7 @@ int main(){
     scanf("%d %d %d", &a, &b, &c);
     printf("the largest number is: %d\n" , max3(a, b, c));    
     return 0;
-}
+}//用函数实现求三个数的最大值，其中max3函数调用了max2函数
 
 int max2(int x, int y){
     if(x > y){
